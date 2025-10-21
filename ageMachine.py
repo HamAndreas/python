@@ -16,7 +16,7 @@ returns result of summation
 def addTwoNumers(first_num: int , second_num: int)-> int:
     return first_num + second_num
 
-ageMachine(49.999999)
+ageMachine(52)
 
 result = addTwoNumers(5, 10)
 print(f"It is: {result}")
