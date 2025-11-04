@@ -1,3 +1,4 @@
+# Exercise: Print a line of stars. Number of stars must be given by the user
 def createLine(i):  # define function createLine with i
     s = ""          # declare variable s as empty string
     while i > 0:    # do while i > 0

@@ -1,3 +1,4 @@
+# Exercise: print a line of character "*" and "-", the number of characters must be given by the user
 def createLine(n):
     symbol = ""
     i = 0
